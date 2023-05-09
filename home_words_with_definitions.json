@@ -1,0 +1,963 @@
+{
+  "words": [
+    null,
+    {
+      "antonym": "",
+      "example": "his letter plunged her into abject misery",
+      "meaning": "(of something bad) experienced or present to the maximum degree.",
+      "partOfSpeech": "adj",
+      "phonetic": "/ˈæbdʒekt/",
+      "synonym": "obsequious ,grovelling , crawling , creeping,fawning, toadyish, servile",
+      "word": "abject"
+    },
+	{
+      "antonym": "adhere (to), ",
+      "example": "MPs were urged to abjure their Jacobite allegiance",
+      "meaning": "solemnly renounce (a belief, cause, or claim).",
+      "partOfSpeech": "verb",
+      "phonetic": "/əbˈdʒʊə(r)/",
+      "synonym": "renounce, relinquish, reject, dispense with, forgo, forswear, disavow, abandon, deny, gainsay, disclaim, repudiate, give up, spurn, abnegate",
+      "word": "abjure"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "abnegation of political power",
+      "meaning": "the action of renouncing or rejecting something.",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˌæbnɪˈɡeɪʃn/",
+      "synonym": "renunciationm, rejection, refusal, abandonment, abdication, surrender",
+      "word": "abnegation"
+ 
+	}, 
+	{
+      "antonym": "appear, arrive, come, continue, face, join, remain, stay, strengthen, wait, abide, endure, give up",
+      "example": "the barman absconded with a week's takings",
+      "meaning": "leave hurriedly and secretly, typically to escape from custody or avoid arrest.",
+      "partOfSpeech": "verb",
+      "phonetic": "/əbˈskɒnd/",
+      "synonym": "bolt, break, decamp, disappear, escape, fade.",
+      "word": "abscond"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "an abstruse philosophical inquiry",
+      "meaning": "difficult to understand; obscure.",
+      "partOfSpeech": "adj",
+      "phonetic": "/æbˈstrus/ ",
+      "synonym": "",
+      "word": "abstruse"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "the authorities did not accede to the strikers' demands",
+      "meaning": "agree to a demand, request, or treaty.",
+      "partOfSpeech": "verb",
+      "phonetic": "/ ækˈsid /",
+      "synonym": "",
+      "word": "accede"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "reporters accosted him in the street",
+      "meaning": "approach and address (someone) boldly or aggressively.",
+      "partOfSpeech": "verb",
+      "phonetic": "/əˈkɒst/",
+      "synonym": "",
+      "word": "accost"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "the accretion of sediments in coastal mangroves",
+      "meaning": "growth or increase by the gradual accumulation of additional layers or matter.",
+      "partOfSpeech": "noun",
+      "phonetic": "/əˈkriːʃn/",
+      "synonym": "",
+      "word": "accretion"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "she hides a shrewd business acumen",
+      "meaning": "the ability to make good judgements and take quick decisions.",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈækjʊmən/",
+      "synonym": "",
+      "word": "acumen"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "he is adamant that he is not going to resign",
+      "meaning": "refusing to be persuaded or to change one's mind.",
+      "partOfSpeech": "adj",
+      "phonetic": "/ˈædəmənt/",
+      "synonym": "",
+      "word": "adamant"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "she admonished me for appearing at breakfast unshaven",
+      "meaning": "warn or reprimand someone firmly.",
+      "partOfSpeech": "verb",
+      "phonetic": "/ədˈmɒnɪʃ/",
+      "synonym": "",
+      "word": "admonish"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "Hobhouse had already adumbrated the idea of a welfare state",
+      "meaning": "represent in outline.",
+      "partOfSpeech": "verb",
+      "phonetic": "/əˈdʌmbreɪt/",
+      "synonym": "",
+      "word": "adumbrate"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "taxes are having an adverse effect on production",
+      "meaning": "preventing success or development; harmful; unfavourable.",
+      "partOfSpeech": "adj",
+      "phonetic": "/ˈædvɜː(r)s/",
+      "synonym": "",
+      "word": "adverse"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "he was an untiring advocate of economic reform",
+      "meaning": "a person who publicly supports or recommends a particular cause or policy.",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈadvəkət/",
+      "synonym": "",
+      "word": "advocate"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "the affluent societies of the western world",
+      "meaning": "(especially of a group or area) having a great deal of money; wealthy",
+      "partOfSpeech": "adj",
+      "phonetic": "æfluənt",
+      "synonym": "",
+      "word": "affluent"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "an action intended to aggrandize the Frankish dynasty",
+      "meaning": "increase the power, status, or wealth of",
+      "partOfSpeech": "verb",
+      "phonetic": "/əˈɡræn.daɪz/",
+      "synonym": "",
+      "word": "aggrandize"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "she accepted the invitation with alacrity",
+      "meaning": "brisk and cheerful readiness.",
+      "partOfSpeech": "noun",
+      "phonetic": "/əˈlækrəti/",
+      "synonym": "",
+      "word": "alacrity"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "Eric Blair, alias George Orwell",
+      "meaning": "used to indicate that a named person is also known or more familiar under another specified name.",
+      "partOfSpeech": "adj",
+      "phonetic": "",
+      "synonym": "",
+      "word": "alias"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "some loved her, some hated her, few were ambivalent about her",
+      "meaning": "having mixed feelings or contradictory ideas about something or someone.",
+      "partOfSpeech": "adj",
+      "phonetic": "/æmˈbɪvələnt/",
+      "synonym": "",
+      "word": "ambivalent"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "parents who have amenable children",
+      "meaning": "open and responsive to suggestion; easily persuaded or controlled.",
+      "partOfSpeech": "adj",
+      "phonetic": "/ əˈmi nə bəl, əˈmɛn ə- /",
+      "synonym": "",
+      "word": "amenable"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "an amorphous, characterless conurbation",
+      "meaning": "without a clearly defined shape or form",
+      "partOfSpeech": "adj",
+      "phonetic": "/əˈmɔː(r)fəs/",
+      "synonym": "",
+      "word": "amorphous"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "Titus' benefits from the effective use of anachronistic elements like cars and loudspeakers",
+      "meaning": "belonging to a period other than that being portrayed.",
+      "partOfSpeech": "adj",
+      "phonetic": "/ əˌnæk rəˈnɪs tɪk /",
+      "synonym": "",
+      "word": "anachronistic"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "racial hatred was anathema to her",
+      "meaning": "something or someone that one vehemently dislikes.",
+      "partOfSpeech": "noun",
+      "phonetic": "/ əˈnæθ ə mə /",
+      "synonym": "",
+      "word": "anathema"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "the first ten amendments were annexed to the Constitution in 1791",
+      "meaning": "add as an extra or subordinate part, especially to a document.",
+      "partOfSpeech": "verb",
+      "phonetic": "/əˈnɛks,ˈanɛks/",
+      "synonym": "",
+      "word": "annex"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "gigantic bones of antediluvian animals",
+      "meaning": "of or belonging to the time before the biblical Flood.",
+      "partOfSpeech": "adj",
+      "phonetic": "/ ˌæn ti dɪˈlu vi ən /",
+      "synonym": "",
+      "word": "antediluvian"
+ 
+	}, 
+	{
+      "antonym": "antiseptic",
+      "example": "garlic has powerful antiseptic properties",
+      "meaning": "preventing the growth of disease-causing microorganisms.",
+      "partOfSpeech": "adj",
+      "phonetic": "",
+      "synonym": "",
+      "word": "antiseptic"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "an apathetic electorate",
+      "meaning": "showing or feeling no interest, enthusiasm, or concern",
+      "partOfSpeech": "adj",
+      "phonetic": "/ˌæpəˈθetɪk/",
+      "synonym": "",
+      "word": "apathetic"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "love is the antithesis of selfishness",
+      "meaning": "a person or thing that is the direct opposite of someone or something else.",
+      "partOfSpeech":"noun",
+      "phonetic": "/ ænˈtɪθ ə sɪs /",
+      "synonym": "",
+      "word": "antithesis"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "there is an apocryphal story about a disgraced rock star who ended up in bankruptcy court",
+      "meaning": "of a story or statement) of doubtful authenticity, although widely circulated as being true.",
+      "partOfSpeech": "",
+      "phonetic": "ə-ˈpä-krə-fəl",
+      "synonym": "",
+      "word": "apocryphal"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "a term of approbation",
+      "meaning": "approval or praise.",
+      "partOfSpeech": "noun",
+      "phonetic": "a-prə-ˈbā-shən",
+      "synonym": "",
+      "word": "approbation"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "an arbitrary decision",
+      "meaning": "based on random choice or personal whim, rather than any reason or system.",
+      "partOfSpeech": "adj",
+      "phonetic": "",
+      "synonym": "",
+      "word": "arbitrary "
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "arboreal rodents",
+      "meaning": "living in trees",
+      "partOfSpeech": "",
+      "phonetic": "/ɑː(r)ˈbɔːriəl/",
+      "synonym": "",
+      "word": "arboreal"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "arcane procedures for electing people",
+      "meaning": "understood by few; mysterious or secret.",
+      "partOfSpeech": "adj",
+      "phonetic": "/ɑː(r)ˈkeɪn/",
+      "synonym": "",
+      "word": "arcane"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "the archetypal country doctor",
+      "meaning": "very typical of a certain kind of person or thing.",
+      "partOfSpeech": "adj",
+      "phonetic": "/ɑr kɪˈtaɪ pəl/",
+      "synonym": "",
+      "word": "archetypal"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "they arrogate to themselves the ability to divine the nation's true interests",
+      "meaning": "take or claim (something) without justification.",
+      "partOfSpeech": "verb",
+      "phonetic": "/ˈærəɡeɪt/",
+      "synonym": "",
+      "word": "arrogate"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "an ascetic life of prayer, fasting, and manual labour",
+      "meaning": "characterized by severe self-discipline and abstention from all forms of indulgence, typically for religious reasons.",
+      "partOfSpeech": "adj",
+      "phonetic": "/əˈsetɪk/",
+      "synonym": "",
+      "word": "ascetic"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "I don't think anyone is casting aspersions on you",
+      "meaning": "an attack on the reputation or integrity of someone or something.",
+      "partOfSpeech": "noun",
+      "phonetic": "/əˈspɜː(r)ʃ(ə)nz/",
+      "synonym": "",
+      "word": "aspersion"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "she was assiduous in pointing out every feature",
+      "meaning": "showing great care and perseverance.",
+      "partOfSpeech": "adj",
+      "phonetic": "/əˈsɪdjʊəs/",
+      "synonym": "",
+      "word": "assiduous"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "the calf muscles will atrophy",
+      "meaning": "(of body tissue or an organ) waste away, especially as a result of the degeneration of cells, or become vestigial during evolution.",
+      "partOfSpeech": "verb",
+      "phonetic": "/ ˈæ trə fi /",
+      "synonym": "",
+      "word": "atrophy"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "a bitter struggle marked by calumny and litigation",
+      "meaning": "the making of false and defamatory statements about someone in order to damage their reputation; slander.",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈkæləmni/",
+      "synonym": "",
+      "word": "calumny"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "the enforced camaraderie of office life",
+      "meaning": "mutual trust and friendship among people who spend a lot of time together.",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˌkæməˈrɑːdəri/",
+      "synonym": "",
+      "word": "camaraderie"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "a man of refreshing candour",
+      "meaning": "the quality of being open and honest; frankness.",
+      "partOfSpeech": "/ˈkændə(r)/",
+      "phonetic": "",
+      "synonym": "",
+      "word": "candour"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "the telephone was the bane of my life",
+      "meaning": "a cause of great distress or annoyance.",
+      "partOfSpeech": "/beɪn/",
+      "phonetic": "",
+      "synonym": "",
+      "word": "bane"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "everything you need to know but have been too bashful to ask",
+      "meaning": "reluctant to draw attention to oneself; shy.",
+      "partOfSpeech": "adj",
+      "phonetic": "/ˈbæʃ.fəl/",
+      "synonym": "",
+      "word": "reluctant to draw attention to oneself; shy."
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "he beguiled the voters with his good looks",
+      "meaning": "charm or enchant (someone), often in a deceptive way.",
+      "partOfSpeech": "verb",
+      "phonetic": "/ bɪˈgaɪl /",
+      "synonym": "",
+      "word": "beguile"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "her room was stark and bereft of colour",
+      "meaning": "deprived of or lacking (something).",
+      "partOfSpeech": "adj",
+      "phonetic": " / bɪˈrɛft /",
+      "synonym": "",
+      "word": "bereft"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "the blandishments of the travel brochure",
+      "meaning": "a flattering or pleasing statement or action used as a means of gently persuading someone to do something.",
+      "partOfSpeech": "noun",
+      "phonetic": "/ ˈblæn dɪʃ mənt /",
+      "synonym": "",
+      "word": "blandishment"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "an apparently benevolent elderly gentleman bilked me of twenty dollars",
+      "meaning": "obtain or withhold money from (someone) unfairly or by deceit; cheat or defraud.",
+      "partOfSpeech": "verb",
+      "phonetic": "bɪlk",
+      "synonym": "",
+      "word": "bilk"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "bombastic rhetoric",
+      "meaning": "high-sounding but with little meaning; inflated.",
+      "partOfSpeech": "",
+      "phonetic": "/bɒmˈbæstɪk/",
+      "synonym": "",
+      "word": "bombastic"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "he hoped to cajole her into selling the house",
+      "meaning": "persuade (someone) to do something by sustained coaxing or flattery.",
+      "partOfSpeech": "verb",
+      "phonetic": "/ kəˈdʒoʊl /",
+      "synonym": "",
+      "word": "cajole"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "his callous comments about the murder made me shiver",
+      "meaning": "showing or having an insensitive and cruel disregard for others.",
+      "partOfSpeech": "",
+      "phonetic": "/ˈkæləs/",
+      "synonym": "",
+      "word": "callous"
+ 
+	}, 
+{ 
+"antonym": "the patriots had to capitulate to the enemy forces",
+      "meaning": "cease to resist an opponent or an unwelcome demand; yield.",
+      "partOfSpeech": "verb",
+      "phonetic": "/kəˈpɪtʃuleɪt/",
+      "synonym": "",
+      "word": "capitulate"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "they danced and caroused until the drink ran out",
+      "meaning": "drink alcohol and enjoy oneself with others in a noisy, lively way.",
+      "partOfSpeech": "verb",
+      "phonetic": "/kəˈraʊz/",
+      "synonym": "",
+      "word": "carouse"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "",
+      "meaning": "",
+      "partOfSpeech": "",
+      "phonetic": "",
+      "synonym": "",
+      "word": "carp1"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "",
+      "meaning": "a conference of members of a legislative body who belong to a particular party or faction.",
+      "partOfSpeech": "noun",
+      "phonetic": "/ ˈkɔ kəs /",
+      "synonym": "",
+      "word": "caucus"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "the players cavorted about the pitch",
+      "meaning": "jump or dance around excitedly.",
+      "partOfSpeech": "verb",
+      "phonetic": "/kəˈvɔːt/ ",
+      "synonym": "",
+      "word": "cavort"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "his admission came after years of circumlocution",
+      "meaning": "the use of many words where fewer would do, especially in a deliberate attempt to be vague or evasive.",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˌsɜːkəmləˈkjuːʃn/",
+      "synonym": "",
+      "word": "circumlocution"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "the minister's powers are circumscribed both by tradition and the organization of local government",
+      "meaning": "restrict (something) within limits.",
+      "partOfSpeech": "verb",
+      "phonetic": "/ˈsɜːkəmskraɪb/",
+      "synonym": "",
+      "word": "circumscribe"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "if you come to an obstruction in a road you can seek to circumvent it",
+      "meaning": "find a way around (an obstacle).",
+      "partOfSpeech": "verb",
+      "phonetic": "/ˌsɜː(r)kəmˈvent/",
+      "synonym": "",
+      "word": "circumvent"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "the questions rose to a clamour",
+      "meaning": "a loud and confused noise, especially that of people shouting.",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈklæmə(r)/",
+      "synonym": "",
+      "word": "clamour"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "the large axe his father used to cleave wood for the fire",
+      "meaning": "split or sever (something), especially along a natural line or grain.",
+      "partOfSpeech": "verb",
+      "phonetic": "/kliːv/",
+      "synonym": "",
+      "word": "cleave1"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "if he does that I'll clobber him!",
+      "meaning": "hit (someone) hard.",
+      "partOfSpeech": "verb",
+      "phonetic": "/ˈklɒbə(r)/",
+      "synonym": "",
+      "word": "clobber"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "the term is obviously cognate with the Malay segan",
+      "meaning": "(of a word) having the same linguistic derivation as another (e.g. English father, German Vater, Latin pater ).",
+      "partOfSpeech": "adj",
+      "phonetic": "",
+      "synonym": "",
+      "word": "cognate"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "statesmen must be cognizant of the political boundaries within which they work",
+      "meaning": "having knowledge or awareness.",
+      "partOfSpeech": "adj",
+      "phonetic": "/ ˈkɒg nə zənt, ˈkɒn ə- /",
+      "synonym": "",
+      "word": "cognizant"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "salary will be commensurate with age and experience",
+      "meaning": "corresponding in size or degree; in proportion.",
+      "partOfSpeech": "adj",
+      "phonetic": "/kəˈmenʃərət/",
+      "synonym": "",
+      "word": "commensurate"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "local ales provide the perfect complement to fine food",
+      "meaning": "a thing that contributes extra features to something else in such a way as to improve or emphasize its quality.",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈkɒmplɪm(ə)nt/",
+      "synonym": "",
+      "word": "complement"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "she loved travel, with all its concomitant worries",
+      "meaning": "naturally accompanying or associated.",
+      "partOfSpeech": "adj",
+      "phonetic": "kɑnˈkɑmɪtənt, kən-",
+      "synonym": "",
+      "word": "concomitant"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "nearby springs supplied the conduit which ran into the brewery",
+      "meaning": "a channel for conveying water or other fluid.",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈkɒndjuɪt/",
+      "synonym": "",
+      "word": "conduit"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "",
+      "meaning": "",
+      "partOfSpeech": "",
+      "phonetic": "",
+      "synonym": "",
+      "word": ""
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "tinder-dry conditions sparked fears of a conflagration in many drought-devastated communities",
+      "meaning": "an extensive fire which destroys a great deal of land or property.",
+      "partOfSpeech": "/ˌkɒnfləˈɡreɪʃ(ə)n/",
+      "phonetic": "",
+      "synonym": "",
+      "word": "conflagration"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "I did not connive in the production of these documents",
+      "meaning": "secretly allow (something immoral, illegal, or harmful) to occur.",
+      "partOfSpeech": "verb",
+      "phonetic": "/kəˈnaɪv/",
+      "synonym": "",
+      "word": "connive"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "he consigned three paintings to Sotheby's",
+      "meaning": "deliver (something) to a person's keeping.",
+      "partOfSpeech": "verb",
+      "phonetic": "/kənˈsaɪn/",
+      "synonym": "",
+      "word": "consign"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "lone parents constitute a great proportion of the poor",
+      "meaning": "be (a part) of a whole.",
+      "partOfSpeech": "verb",
+      "phonetic": "/ˈkɒnstɪˌtjuːt/",
+      "synonym": "",
+      "word": "constitute"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "his words could hardly be construed as an apology",
+      "meaning": "interpret (a word or action) in a particular way.",
+      "partOfSpeech": "verb",
+      "phonetic": "/kənˈstruː/",
+      "synonym": "",
+      "word": "construe"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "a dark contusion on his cheek was beginning to swell",
+      "meaning": "a region of injured tissue or skin in which blood capillaries have been ruptured; a bruise.",
+      "partOfSpeech": "noun",
+      "phonetic": "/kənˈtjuːʒ(ə)n/",
+      "synonym": "",
+      "word": "contusion"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "a contrite tone",
+      "meaning": "feeling or expressing remorse at the recognition that one has done wrong.",
+      "partOfSpeech": "",
+      "phonetic": "/ˈkɒntraɪt/",
+      "synonym": "",
+      "word": "contrite"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "a contentious issue",
+      "meaning": "causing or likely to cause an argument; controversial.",
+      "partOfSpeech": "adj",
+      "phonetic": "kənˈtenʃəs",
+      "synonym": "",
+      "word": "contentious"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "he contravened the Official Secrets Act",
+      "meaning": "offend against the prohibition or order of (a law, treaty, or code of conduct).",
+      "partOfSpeech": "verb",
+      "phonetic": "/ˌkɒntrəˈviːn/",
+      "synonym": "",
+      "word": "contravene"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "a convivial cocktail party",
+      "meaning": "(of an atmosphere or event) friendly, lively, and enjoyable.",
+      "partOfSpeech": "adj",
+      "phonetic": "/kənˈvɪviəl/",
+      "synonym": "",
+      "word": "convivial"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "her corpulence is the butt of every joke",
+      "meaning": "the state of being fat; obesity.",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "synonym": "",
+      "word": "corpulence"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "I covet one of their smart bags",
+      "meaning": "yearn to possess (something, especially something belonging to another).",
+      "partOfSpeech": "verb",
+      "phonetic": "/ˈkʌvət/",
+      "synonym": "",
+      "word": "covet"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "new wealth, however tainted by cupidity and egoism, tends to be favourable for the arts",
+      "meaning": "greed for money or possessions.",
+      "partOfSpeech": "noun",
+      "phonetic": "/kjuːˈpɪdəti/",
+      "synonym": "",
+      "word": "cupidity"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "there is a dearth of evidence",
+      "meaning": "a scarcity or lack of something.",
+      "partOfSpeech": "noun",
+      "phonetic": "/dɜː(r)θ/",
+      "synonym": "",
+      "word": "dearth"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "the only man to reach double figures in the second-innings debacle",
+      "meaning": "a sudden and ignominious failure; a fiasco.",
+      "partOfSpeech": "noun",
+      "phonetic": "/deɪˈbɑːk(ə)l/",
+      "synonym": "",
+      "word": "debacle"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "he has debauched the morals of the people and endeavoured to corrupt parliament",
+      "meaning": "destroy or debase the moral purity of; corrupt.",
+      "partOfSpeech": "verb",
+      "phonetic": "",
+      "synonym": "",
+      "word": "debauch"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "she debunks all the usual rubbish about acting",
+      "meaning": "expose the falseness or hollowness of (an idea or belief).",
+      "partOfSpeech": "verb",
+      "phonetic": "/diːˈbʌŋk/",
+      "synonym": "",
+      "word": "debunk"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "the now defunct Somerset & Dorset railway line",
+      "meaning": "no longer existing or functioning.",
+      "partOfSpeech": "adj",
+      "phonetic": "/dɪˈfʌŋkt/",
+      "synonym": "",
+      "word": "defunct"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "a gifted demagogue with particular skill in manipulating the press",
+      "meaning": "a political leader who seeks support by appealing to the desires and prejudices of ordinary people rather than by using rational argument.",
+      "partOfSpeech": "noun",
+      "phonetic": "/ˈdeməɡɒɡ/",
+      "synonym": "",
+      "word": "demagogue"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "doom and gloom merchants who denigrate their own country",
+      "meaning": "criticize unfairly; disparage.",
+      "partOfSpeech": "verb",
+      "phonetic": "/ˈdenɪˌɡreɪt/",
+      "synonym": "",
+      "word": "denigrate"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "an artist who is not in the slightest bit derivative",
+      "meaning": "imitative of the work of another artist, writer, etc., and usually disapproved of for that reason.",
+      "partOfSpeech": "adj",
+      "phonetic": "/dɪˈrɪvətɪv/",
+      "synonym": "",
+      "word": "derivative"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "",
+      "meaning": "a ruler or other person who holds absolute power, typically one who exercises it in a cruel or oppressive way.",
+      "partOfSpeech": "noun",
+      "phonetic": "",
+      "synonym": "",
+      "word": "despot"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "a diaphanous dress of pale gold",
+      "meaning": "(especially of fabric) light, delicate, and translucent.",
+      "partOfSpeech": "adj",
+      "phonetic": "/daɪˈæfənəs/",
+      "synonym": "",
+      "word": "diaphanous"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "a didactic novel that set out to expose social injustice",
+      "meaning": "intended to teach, particularly in having moral instruction as an ulterior motive.",
+      "partOfSpeech": "adj",
+      "phonetic": "/daɪˈdæktɪk/",
+      "synonym": "",
+      "word": "didactic"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "",
+      "meaning": "",
+      "partOfSpeech": "",
+      "phonetic": "",
+      "synonym": "",
+      "word": ""
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "",
+      "meaning": "a lament for the dead, especially one forming part of a funeral rite.",
+      "partOfSpeech": "noun",
+      "phonetic": "/dɜː(r)dʒ/",
+      "synonym": "",
+      "word": "dirge"
+ 
+	}, 
+	{
+      "antonym": "",
+      "example": "he was not noticeably discomfited by her tone",
+      "meaning": "make (someone) feel uneasy or embarrassed.",
+      "partOfSpeech": "verb",
+      "phonetic": "/dɪsˈkʌmfɪt/",
+      "synonym": "",
+      "word": "discomfit"
+ 
+	}
+  ]
+}
